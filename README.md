@@ -148,4 +148,4 @@ The maze is an array of text strings, so it is easy to edit:
 - ✅ Pause, quit, and colourful UI 🎨
 - ✅ Flicker-free rendering ⚡
 
-If you want, I can turn this into a shorter version for your GitHub README, or add emojis to the README I wrote earlier so the two match. 🚀
+
