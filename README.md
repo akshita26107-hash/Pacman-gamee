@@ -39,6 +39,6 @@ Perfect game: the maximum possible score is 3,333,360 points, first achieved in 
 Legacy
 Pac-Man spawned many sequels, including Ms. Pac-Man (1982), which was originally an unofficial modification and became arguably as famous as the original. It also led to cartoons, merchandise, and a long list of ports and remakes. It is often cited as a milestone in game design because of its character-driven, non-violent concept and the way each ghost’s simple rules combine into complex gameplay.
 
-If you want this tailored (for example, a shorter version for a school submission, or a section comparing your C++ version to the original), tell me and I’ll adjust it.
+
 
 
